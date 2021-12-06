@@ -9,13 +9,13 @@ Based on the table below, the urban areas have more drivers than riders and also
 for lower fares could be that urban riders could be traveling shorter distances than their rural and suburban counter parts, attributing to lower fares. If we knew the total population for these cities, we can get
 an idea about what % of residents utilized PyBer. Suburban and Rural areas appear to be underserved by PyBer and perhaps some investment could go into advertising in those areas.
 
-![InsertImage]
+![Summary-Table](https://github.com/mmanackal/PyBer_Analysis/blob/main/Resources/By_City_Chart.PNG)
 
-In the date analysis we completed, it appears there is an increase in fares towards the end of February, going into March. Urban areas continue the trend on certain dates between March and April. It would be worth
+In the date analysis we completed, it appears there is an increase in fares towards the end of February going into March. Urban areas continue the trend on certain dates between March and April. It would be worth
 the effort for PyBer to look into why there are more riders and/or higher fare rates during the spikes. Are there events happening, which are drawing more people into these areas and/or forcing people to ride-share vs
 driving themselves. The other months should be looked at as well to see if this trend occurs during other periods.
 
-![InsertImage]
+![Fares-Graph](https://github.com/mmanackal/PyBer_Analysis/blob/main/analysis/Pyber_Challenge_Chart.png)
 
 ### Summary:
 
